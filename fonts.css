@@ -1,0 +1,15 @@
+		@font-face{
+			font-family: comfortaa-bold;
+    		src: url(Comfortaa-Bold.ttf);
+		}
+		@font-face{
+			font-family: comfortaa-light;
+    		src: url(Comfortaa-Light.ttf);
+		}
+		@font-face{
+			font-family: comfortaa-regular;
+    		src: url(Comfortaa-Regular.ttf);
+    	}
+    	@font-face{
+			font-family: nexa;
+    		src: url(uppercase.ttf);
